@@ -130,8 +130,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
- 
-<!-- <hr> -->
 
 <!-- Programming Languages -->
 <!-- C,
@@ -155,8 +153,6 @@ coffeescript,
 elixir,
 erlang,
 nim -->
-
-<!-- <hr> -->
 
 <!-- Frontend Development -->
 <!-- vuejs,
@@ -183,8 +179,6 @@ qt,
 wx_widgets,
 ember -->
 
-<!-- <hr> -->
-
 <!-- Backend Developmen -->
 <!-- nodejs,
 spring,
@@ -198,8 +192,6 @@ nginx,
 openresty,
 nextjs -->
 
-<!-- <hr> -->
-
 <!-- Mobile App Development -->
 <!-- android,
 flutter,
@@ -211,8 +203,6 @@ reactnative,
 ionic,
 apachecordova -->
 
-<!-- <hr> --.
-
 <!-- AI/ML -->
 <!-- tenserflow,
 pytorch,
@@ -220,8 +210,6 @@ pandas,
 seaborn,
 opencv,
 sikit_learn -->
-
-<!-- <hr> -->
 
 <!-- Database -->
 <!-- mongodb,
@@ -239,16 +227,12 @@ elasticsearch,
 sqlite,
 mssql -->
 
-<!-- <hr> -->
-
 <!-- Data Visualizaion -->
 <!-- d3js,
 chartjs,
 canvas,
 kibana,
 grafana -->
-
-<!-- <hr> -->
 
 <!-- Devops --->
 <!-- aws <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>,
@@ -262,15 +246,11 @@ vagrant,
 circleci,
 travisci -->
 
-<!-- <hr> -->
-
 <!-- Backend as a Service (BaaS) -->
 <!-- firebase,
 appwrite,
 amplify,
 heroku -->
-
-<!-- <hr> -->
 
 <!-- Framework -->
 <!-- django,
@@ -283,8 +263,6 @@ rails,
 flask,
 quasar -->
 
-<!-- <hr> -->
-
 <!-- Testing -->
 <!-- cypress,
 selenium,
@@ -293,8 +271,6 @@ mocha,
 puppeteer,
 karma,
 jasmine -->
-
-<!-- <hr> -->
 
 <!-- Software -->
 <!-- illustrator,
@@ -307,8 +283,6 @@ invision,
 framer,
 matlab,
 postman -->
-
-<!-- <hr> -->
 
 <!-- Static Site Generators -->
 <!-- gatsby,
@@ -325,19 +299,13 @@ vuepress,
 hexo,
 middleman -->
 
-<!-- <hr> -->
-
 <!-- Game Engines -->
 <!-- unity,
 unreal -->
 
-<!-- <hr> -->
-
 <!-- Automation -->
 <!-- zapier,
 ifttt -->
-
-<!-- <hr> -->
 
 <!-- Other -->
 <!-- linus,
