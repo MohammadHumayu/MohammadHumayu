@@ -1,34 +1,19 @@
-<p>
-                                                                <!-- TITLE -->
-</p>
+<!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Mohammad Humayu</h1>
-<p>
-                                                                <!-- SUBTITLE -->
-</p>
+<!-- SUBTITLE -->
 <h3 align="center">A passionate CS Engineer from India</h3>
-<p>
-                                                                <!-- PROFILE VIEWS COUNT -->
-</p>
+<!-- PROFILE VIEWS COUNT -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhumayu&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhumayu" /> </p> -->
- <p>
-                                                                 <!-- GITHUB TROPHIES -->
- </p>
- <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhumayu" alt="mohammadhumayu" /></a> </p> -->
- <p>
-                                                                <!-- TWITTER FOLLOW LINK -->
- </p>
- <!-- <p align="left"> <a href="https://twitter.com/twitter username" target="_blank"><img src="https://img.shields.io/twitter/follow/twitter username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p> -->
- <p>
-                                                                <!-- WORK SECTOIN -->
- </p>
- <p>
-                        <!-- currently working project and its link -->
- </p>
- <!-- - 🔭 I’m currently working on [project name](project link) -->
- <p>
-                        <!-- currently learning framework, courses, etc. -->
- </p>
-  - 🌱 I’m currently learning *Flutter*
+<!-- GITHUB TROPHIES -->
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhumayu" alt="mohammadhumayu" /></a> </p> -->
+<!-- TWITTER FOLLOW LINK -->
+<!-- <p align="left"> <a href="https://twitter.com/twitter username" target="_blank"><img src="https://img.shields.io/twitter/follow/twitter username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p> -->
+<!-- WORK SECTOIN -->
+<!-- currently working project and its link -->
+<!-- - 🔭 I’m currently working on [project name](project link) -->
+<!-- currently learning framework, courses, etc. -->
+- 🌱 I’m currently learning <b>Flutter</b>
+
  <p>
                         <!-- project you want to work on -->
  </p>
