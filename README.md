@@ -28,7 +28,7 @@
  <p>
                         <!-- currently learning framework, courses, etc. -->
  </p>
- <!-- - 🌱 I’m currently learning **frameworks, courses, etc.** -->
+  - 🌱 I’m currently learning **frameworks, courses, etc.**
  <p>
                         <!-- project you want to work on -->
  </p>
