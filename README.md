@@ -28,7 +28,7 @@
  <p>
                         <!-- currently learning framework, courses, etc. -->
  </p>
-  - 🌱 I’m currently learning **Flutter**
+  - 🌱 I’m currently learning *Flutter*
  <p>
                         <!-- project you want to work on -->
  </p>
