@@ -44,7 +44,7 @@
  <p>
                         <!-- your gmail id -->
  </p>
- <!-- - 📫 How to reach me **gmail id** -->
+ - 📫 How to reach me **mhumayu2017@gmail.com**
  <p>
                         <!-- your resume and link to  download resume -->
  </p>
