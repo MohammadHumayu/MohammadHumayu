@@ -67,10 +67,8 @@
                         <!-- linkedin -->
   </p>
   <a href="https://linkedin.com/in/mohammad-humayu-299794252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-humayu-299794252" height="30" width="40" /></a>
-  <p>
                         <!-- kaggle username -->
-  </p>
-  <a href="https://kaggle.com/kaggle/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadhumayu" height="30" width="40" /></a>
   <p>
                           <!-- codepen username -->
   </p>
