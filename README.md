@@ -63,9 +63,17 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p>
+  <p>
+                        <!-- linkedin -->
+  </p>
+  <a href="https://linkedin.com/in/mohammad-humayu-299794252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-humayu-299794252" height="30" width="40" /></a>
+  <p>
+                        <!-- kaggle username -->
+  </p>
+  <a href="https://kaggle.com/kaggle/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
+  <p>
                           <!-- codepen username -->
-</p>
+  </p>
 <!-- <a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen username" height="30" width="40" /></a> -->
 <p>
                           <!-- dev .to username -->
@@ -76,10 +84,6 @@
 </p>
 <!-- <a href="https://twitter.com/twitter username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter username" height="30" width="40" /></a> -->
 <p>
-                        <!-- linkedin -->
-</p>
-<a href="https://linkedin.com/in/mohammad-humayu-299794252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-humayu-299794252" height="30" width="40" /></a>
-<p>
                         <!-- stackoverflow -->
 </p>
 <!-- <a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow user id" height="30" width="40" /></a> -->
@@ -87,10 +91,6 @@
                         <!-- codesandbox -->
 </p>
 <!-- <a href="https://codesandbox.com/codesandbox username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox username" height="30" width="40" /></a>-->
-<p>
-                        <!-- kaggle username -->
-</p>
- <a href="https://kaggle.com/kaggle username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a> 
 <p>
                         <!-- facebook -->
 </p>
