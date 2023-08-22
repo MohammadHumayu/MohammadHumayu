@@ -13,7 +13,7 @@
                                                                 <!-- GITHUB TROPHIES -->
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhumayu" alt="mohammadhumayu" /></a> </p> -->
                                                                 <!-- TWITTER FOLLOW LINK -->
- <p align="left"> <a href="https://twitter.com/twitter" target="_blank"><img src="https://img.shields.io/twitter/follow/twitter username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p> 
+ <p align="left"> <a href="https://twitter.com/m_humayu_786" target="blank"><img src="https://img.shields.io/twitter/follow/m_humayu_786?logo=twitter&style=for-the-badge" alt="m_humayu_786" /></a> </p> 
                                                                 <!-- WORK SECTOIN -->
                         <!-- currently working project and its link -->
 <!-- - 🔭 I’m currently working on [project name](project link) -->
@@ -63,10 +63,10 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <p>
+                         <!-- twitter -->
+<a href="https://twitter.com/m_humayu_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_humayu_786" height="30" width="40" /></a>
                         <!-- linkedin -->
-  </p>
-  <a href="https://linkedin.com/in/mohammad-humayu-299794252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-humayu-299794252" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-humayu-299794252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-humayu-299794252" height="30" width="40" /></a>
                         <!-- kaggle username -->
 <a href="https://kaggle.com/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadhumayu" height="30" width="40" /></a>
   <p>
@@ -76,11 +76,7 @@
 <p>
                           <!-- dev .to username -->
 </p>
-<!-- <a href="https://dev.to/dev .to username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev .to username" height="30" width="40" /></a> -->
-<p>
-                         <!-- twitter -->
-</p>
-<!-- <a href="https://twitter.com/twitter username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter username" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/dev .to username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev .to username" height="30" width="40" /></a> --> 
 <p>
                         <!-- stackoverflow -->
 </p>
