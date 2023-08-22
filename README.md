@@ -13,7 +13,7 @@
                                                                 <!-- GITHUB TROPHIES -->
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhumayu" alt="mohammadhumayu" /></a> </p> -->
                                                                 <!-- TWITTER FOLLOW LINK -->
-<!-- <p align="left"> <a href="https://twitter.com/twitter username" target="_blank"><img src="https://img.shields.io/twitter/follow/twitter username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p> -->
+ <p align="left"> <a href="https://twitter.com/twitter" target="_blank"><img src="https://img.shields.io/twitter/follow/twitter username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p> 
                                                                 <!-- WORK SECTOIN -->
                         <!-- currently working project and its link -->
 <!-- - 🔭 I’m currently working on [project name](project link) -->
