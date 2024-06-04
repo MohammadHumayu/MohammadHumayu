@@ -23,7 +23,7 @@
 <!-- <a href="https://twitter.com/m_humayu_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_humayu_786" height="30" width="40" /></a> -->
 
 <!-- linkedin -->
-<!-- <a href="https://www.linkedin.com/in/mohammad-humayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/mohammad-humayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a>
 
 <!-- stackoverflow -->
 <!-- <a href="https://stackoverflow.com/users/25418200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25418200" height="30" width="40" /></a> -->
@@ -43,18 +43,41 @@
 <!-- dribble -->
 <!-- <a href="https://dribbble.com/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohammad-humayu" height="30" width="40" /></a> -->
 
-<a href="https://www.behance.net/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammad humayu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mohammadhumayu" height="30" width="40" /></a>
-<a href="https://medium.com/@m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m_humayu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qwerty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwerty" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohammad_humay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammad_humay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@m_humayu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammad-humayu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m_humayu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m_humayu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="m_humayu" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mohammad-humayu" height="30" width="40" /></a>
-<a href="https://discord.gg/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammadhumayu" height="30" width="40" /></a>
+<!-- behance -->
+<!-- <a href="https://www.behance.net/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammad humayu" height="30" width="40" /></a> -->
+
+<!-- hashnode -->
+<!-- <a href="https://hashnode.com/@mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mohammadhumayu" height="30" width="40" /></a> -->
+
+<!-- medium -->
+<!-- <a href="https://medium.com/@m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m_humayu" height="30" width="40" /></a> -->
+
+<!-- youtube -->
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qwerty" height="30" width="40" /></a> -->
+
+<!-- codechef -->
+<!-- <a href="https://www.codechef.com/users/mohammad_humay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammad_humay" height="30" width="40" /></a> -->
+
+<!-- hackerrank -->
+<!-- <a href="https://www.hackerrank.com/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@m_humayu" height="30" width="40" /></a> -->
+
+<!-- codeforces -->
+<!-- <a href="https://codeforces.com/profile/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammad-humayu" height="30" width="40" /></a> -->
+
+<!-- leetcode -->
+<!-- <a href="https://www.leetcode.com/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m_humayu" height="30" width="40" /></a> -->
+
+<!-- hackerearth -->
+<!-- <a href="https://www.hackerearth.com/@m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m_humayu" height="30" width="40" /></a> -->
+
+<!-- GFG -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="m_humayu" height="30" width="40" /></a> -->
+
+<!-- topcoder -->
+<!-- <a href="https://www.topcoder.com/members/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mohammad-humayu" height="30" width="40" /></a> -->
+
+<!-- discord channel -->
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammadhumayu" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
