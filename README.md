@@ -22,7 +22,7 @@
 <!-- twitter -->
 <!-- <a href="https://twitter.com/m_humayu_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_humayu_786" height="30" width="40" /></a> -->
 
-<a href="https://www.linkedin.com/in/mohammad-humayu-299794252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25418200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25418200" height="30" width="40" /></a>
 <a href="https://codesandbox.com/m_humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="m_humayu" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohammadhumayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadhumayu" height="30" width="40" /></a>
