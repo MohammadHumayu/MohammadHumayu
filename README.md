@@ -13,6 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<!-- linkedin -->
+<a href="https://www.linkedin.com/in/mohammad-humayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a>
+
 <!-- codepen id -->
 <!-- <a href="https://codepen.io/mohammad-humayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mohammad-humayu" height="30" width="40" /></a> -->
 
@@ -21,9 +24,6 @@
 
 <!-- twitter -->
 <!-- <a href="https://twitter.com/m_humayu_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_humayu_786" height="30" width="40" /></a> -->
-
-<!-- linkedin -->
-<a href="https://www.linkedin.com/in/mohammad-humayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-humayu-299794252/" height="30" width="40" /></a>
 
 <!-- stackoverflow -->
 <!-- <a href="https://stackoverflow.com/users/25418200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25418200" height="30" width="40" /></a> -->
