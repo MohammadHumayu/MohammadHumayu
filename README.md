@@ -95,7 +95,7 @@
 
 
 <!-- most used languages -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadhumayu&show_icons=true&locale=en&layout=compact" alt="mohammadhumayu" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadhumayu&show_icons=true&locale=en&layout=compact" alt="mohammadhumayu" /></p>
 
 <!-- github stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhumayu&show_icons=true&locale=en" alt="mohammadhumayu" /></p> -->
